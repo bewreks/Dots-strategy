@@ -65,6 +65,7 @@
     <Compile Include="Assets\Scripts\Systems\MainCameraInitializeSystem.cs" />
     <Compile Include="Assets\Scripts\Components\UnitTag.cs" />
     <Compile Include="Assets\Scripts\Components\NavAgentComponent.cs" />
+    <Compile Include="Assets\Scripts\Jobs\MovingJob.cs" />
     <Compile Include="Assets\InputSystem_Actions.cs" />
     <Compile Include="Assets\Scripts\Systems\UserInputSystem.cs" />
     <Compile Include="Assets\Scripts\Components\MoveTarget.cs" />
